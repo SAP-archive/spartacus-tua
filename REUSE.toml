@@ -1,0 +1,15 @@
+version = 1
+SPDX-PackageName = "tua-spa"
+SPDX-PackageSupplier = "Deborah Cholmeley-Jones  <<deborah.cholmeley-jones@sap.com>>"
+
+[[annotations]]
+path = [".editorconfig", ".gitignore", ".travis.yml", "browserslist", "config.yaml", "karma.conf.js", "angular.json", "package.json", "tsconfig.app.json", "tsconfig.json", "tsconfig.spec.json", "tslint.json", "projects/tua-spa/**"]
+precedence = "aggregate"
+SPDX-FileCopyrightText = "2020 SAP SE or an SAP affiliate company and contributors."
+SPDX-License-Identifier = "CC0-1.0"
+
+[[annotations]]
+path = ["README.md", "projects/tua-spa/src/**"]
+precedence = "aggregate"
+SPDX-FileCopyrightText = "2020 SAP SE or an SAP affiliate company and contributors."
+SPDX-License-Identifier = "Apache-2.0"
